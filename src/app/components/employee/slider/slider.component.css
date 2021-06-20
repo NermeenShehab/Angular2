@@ -1,0 +1,33 @@
+div {
+    border: 2px solid;
+    background-color: salmon;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 550px;
+    box-shadow: 3px 3px 25px blue;
+}
+
+button {
+    padding: 15px;
+    margin: 10px;
+    margin-left: 100px;
+    background-color: blue;
+    color: white;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: red;
+    box-shadow: 3px 3px 25px blue;
+}
+
+img {
+    padding-left: 60px;
+    width: 430px;
+    height: 400px;
+}
+
+h3 {
+    margin-left: 200px;
+}
